@@ -10,44 +10,46 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: Select random camp files
         run: |
-          band_files=( "band_1.json" "band_2.json" "band_3.json" "band_4.json" "band_5.json" "band_6.json" "band_7.json" "band_8.json" )
-          hunt_files=( "hunt_1.json" "hunt_2.json" "hunt_3.json" "hunt_4.json" "hunt_5.json" "hunt_6.json" "hunt_7.json" "hunt_8.json" )
-          med_files=( "med_1.json" "med_2.json" "med_3.json" "med_4.json" "med_5.json" "med_6.json" "med_7.json" "med_8.json" )
-          surv_files=( "surv_1.json" "surv_2.json" "surv_3.json" "surv_4.json" "surv_5.json" "surv_6.json" "surv_7.json" "surv_8.json" )
+          set -e
+          band_files=(band_1.json band_2.json band_3.json band_4.json band_5.json band_6.json band_7.json band_8.json)
+          hunt_files=(hunt_1.json hunt_2.json hunt_3.json hunt_4.json hunt_5.json hunt_6.json hunt_7.json hunt_8.json)
+          med_files=(med_1.json med_2.json med_3.json med_4.json med_5.json med_6.json med_7.json med_8.json)
+          surv_files=(surv_1.json surv_2.json surv_3.json surv_4.json surv_5.json surv_6.json surv_7.json surv_8.json)
 
-          selected_band=($(printf "%s\n" "${band_files[@]}" | shuf -n 3))
-          selected_hunt=($(printf "%s\n" "${hunt_files[@]}" | shuf -n 3))
-          selected_med=($(printf "%s\n" "${med_files[@]}" | shuf -n 3))
-          selected_surv=($(printf "%s\n" "${surv_files[@]}" | shuf -n 3))
+          band_selected=($(shuf -e "${band_files[@]}" -n 3))
+          hunt_selected=($(shuf -e "${hunt_files[@]}" -n 3))
+          med_selected=($(shuf -e "${med_files[@]}" -n 3))
+          surv_selected=($(shuf -e "${surv_files[@]}" -n 3))
 
-          combined=( "${selected_band[@]}" "${selected_hunt[@]}" "${selected_med[@]}" "${selected_surv[@]}" )
-          for i in "${!combined[@]}"; do
-            echo "FILE$((i+1))=${combined[$i]}" >> $GITHUB_ENV
+          i=1
+          for file in "${band_selected[@]}" "${hunt_selected[@]}" "${med_selected[@]}" "${surv_selected[@]}"; do
+            echo "FILE${i}=${file}" >> "$GITHUB_ENV"
+            i=$((i+1))
           done
 
-      - name: Upload selected files
+      - name: Upload selected files via FTP
         env:
-          FTP_HOST: ${{ secrets.FTP_HOST }}
-          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
-          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          FTP_HOST: '${{ secrets.FTP_HOST }}'
+          FTP_USERNAME: '${{ secrets.FTP_USERNAME }}'
+          FTP_PASSWORD: '${{ secrets.FTP_PASSWORD }}'
         run: |
           remote_paths=(
-            "/dayzps_missions/dayzoffline.chernarusplus/custom/band_1.json"
-            "/dayzps_missions/dayzoffline.chernarusplus/custom/band_2.json"
-            "/dayzps_missions/dayzoffline.chernarusplus/custom/band_3.json"
-            "/dayzps_missions/dayzoffline.chernarusplus/custom/hunt_1.json"
-            "/dayzps_missions/dayzoffline.chernarusplus/custom/hunt_2.json"
-            "/dayzps_missions/dayzoffline.chernarusplus/custom/hunt_3.json"
-            "/dayzps_missions/dayzoffline.chernarusplus/custom/med_1.json"
-            "/dayzps_missions/dayzoffline.chernarusplus/custom/med_2.json"
-            "/dayzps_missions/dayzoffline.chernarusplus/custom/med_3.json"
-            "/dayzps_missions/dayzoffline.chernarusplus/custom/surv_1.json"
-            "/dayzps_missions/dayzoffline.chernarusplus/custom/surv_2.json"
-            "/dayzps_missions/dayzoffline.chernarusplus/custom/surv_3.json"
+            /dayzps_missions/dayzoffline.chernarusplus/custom/band_1.json
+            /dayzps_missions/dayzoffline.chernarusplus/custom/band_2.json
+            /dayzps_missions/dayzoffline.chernarusplus/custom/band_3.json
+            /dayzps_missions/dayzoffline.chernarusplus/custom/hunt_1.json
+            /dayzps_missions/dayzoffline.chernarusplus/custom/hunt_2.json
+            /dayzps_missions/dayzoffline.chernarusplus/custom/hunt_3.json
+            /dayzps_missions/dayzoffline.chernarusplus/custom/med_1.json
+            /dayzps_missions/dayzoffline.chernarusplus/custom/med_2.json
+            /dayzps_missions/dayzoffline.chernarusplus/custom/med_3.json
+            /dayzps_missions/dayzoffline.chernarusplus/custom/surv_1.json
+            /dayzps_missions/dayzoffline.chernarusplus/custom/surv_2.json
+            /dayzps_missions/dayzoffline.chernarusplus/custom/surv_3.json
           )
           files=(
             "$FILE1"
@@ -63,9 +65,7 @@ jobs:
             "$FILE11"
             "$FILE12"
           )
-        for i in "${!files[@]}"; do
-    echo "Uploading ${files[$i]} to ${remote_paths[$i]}"
-    curl --ftp-method nocwd --ftp-pasv --disable-epsv \
-         -T "${files[$i]}" \
-         "ftp://${FTP_USERNAME}:${FTP_PASSWORD}@${FTP_HOST}${remote_paths[$i]}"
-done
+          for i in "${!files[@]}"; do
+            echo "Uploading ${files[$i]} to ${remote_paths[$i]}"
+            curl --ftp-method nocwd --ftp-pasv --disable-epsv -T "${files[$i]}" "ftp://${FTP_USERNAME}:${FTP_PASSWORD}@${FTP_HOST}${remote_paths[$i]}"
+          done
