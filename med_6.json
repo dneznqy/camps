@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "NBCBootsYellow",
+      "pos": [
+        12786.828125,
+        16.205032,
+        14126.710938
+      ],
+      "ypr": [
+        51.011086,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCJacketWhite",
+      "pos": [
+        12787.852539,
+        16.3741,
+        14125.317383
+      ],
+      "ypr": [
+        143.45285,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_WoodBttstck",
+      "pos": [
+        12784.894531,
+        16.367899,
+        14125.489258
+      ],
+      "ypr": [
+        -172.759781,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_Hndgrd",
+      "pos": [
+        12786.137695,
+        16.370941,
+        14124.683594
+      ],
+      "ypr": [
+        -16.705244,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74",
+      "pos": [
+        12786.374023,
+        16.422428,
+        14123.426758
+      ],
+      "ypr": [
+        23.495037,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_30Rnd",
+      "pos": [
+        12788.061523,
+        16.387358,
+        14123.181641
+      ],
+      "ypr": [
+        -95.985001,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_30Rnd",
+      "pos": [
+        12788.908203,
+        16.319324,
+        14123.893555
+      ],
+      "ypr": [
+        109.971001,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        12790.561523,
+        16.284504,
+        14123.427734
+      ],
+      "ypr": [
+        142.244308,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        12789.202148,
+        16.395155,
+        14122.107422
+      ],
+      "ypr": [
+        126.928894,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        12784.789063,
+        16.248768,
+        14127.206055
+      ],
+      "ypr": [
+        -129.796448,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        12788.496094,
+        15.940138,
+        14129.897461
+      ],
+      "ypr": [
+        11.655999,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Green",
+      "pos": [
+        12787.123047,
+        17.311501,
+        14128.661133
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

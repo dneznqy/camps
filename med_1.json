@@ -1,0 +1,158 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        916.602905,
+        130.458755,
+        4517.813965
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        916.554993,
+        130.79097,
+        4517.861328
+      ],
+      "ypr": [
+        143.716522,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        918.012756,
+        130.2099,
+        4517.446777
+      ],
+      "ypr": [
+        -164.415421,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCHoodYellow",
+      "pos": [
+        917.67157,
+        130.180695,
+        4518.912598
+      ],
+      "ypr": [
+        117.568275,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCPantsYellow",
+      "pos": [
+        916.761841,
+        130.189072,
+        4516.642578
+      ],
+      "ypr": [
+        107.350685,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCBootsWhite",
+      "pos": [
+        917.620605,
+        130.209259,
+        4516.897949
+      ],
+      "ypr": [
+        -172.754257,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "GasMask",
+      "pos": [
+        915.530457,
+        130.08403,
+        4516.412109
+      ],
+      "ypr": [
+        -133.147339,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "GasMask_Filter",
+      "pos": [
+        916.586243,
+        130.220749,
+        4515.827148
+      ],
+      "ypr": [
+        110.437927,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        912.800049,
+        130.031799,
+        4518.334473
+      ],
+      "ypr": [
+        -119.897438,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        918.678345,
+        130.171814,
+        4520.992676
+      ],
+      "ypr": [
+        39.936508,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Red",
+      "pos": [
+        915.070435,
+        131.294693,
+        4520.899902
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

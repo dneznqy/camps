@@ -1,0 +1,158 @@
+{
+  "Objects": [
+    {
+      "name": "NBCBootsYellow",
+      "pos": [
+        11999.310547,
+        6.179587,
+        3527.867676
+      ],
+      "ypr": [
+        -13.964046,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCGlovesYellow",
+      "pos": [
+        11997.075195,
+        6.186859,
+        3527.304932
+      ],
+      "ypr": [
+        29.21353,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BloodBagFull",
+      "pos": [
+        11995.952148,
+        6.199745,
+        3527.910156
+      ],
+      "ypr": [
+        -161.465469,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Epinephrine",
+      "pos": [
+        11997.115234,
+        6.168416,
+        3529.710449
+      ],
+      "ypr": [
+        26.20867,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AKS74U_Bttstck",
+      "pos": [
+        11995.058594,
+        6.196567,
+        3528.10791
+      ],
+      "ypr": [
+        122.869347,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AKS74U",
+      "pos": [
+        11994.946289,
+        6.208811,
+        3529.150146
+      ],
+      "ypr": [
+        -149.40213,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_45Rnd",
+      "pos": [
+        11993.933594,
+        6.191175,
+        3528.119629
+      ],
+      "ypr": [
+        -33.273178,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        11992.861328,
+        6.208372,
+        3526.315186
+      ],
+      "ypr": [
+        117.117805,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        11994.987305,
+        6.132628,
+        3530.949951
+      ],
+      "ypr": [
+        145.287643,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterLeather",
+      "pos": [
+        12001.901367,
+        6.203862,
+        3525.23584
+      ],
+      "ypr": [
+        69.270889,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterLeather",
+      "pos": [
+        11997.314453,
+        6.249753,
+        3523.364014
+      ],
+      "ypr": [
+        -106.084724,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

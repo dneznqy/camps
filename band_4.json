@@ -1,0 +1,144 @@
+{
+  "Objects": [
+    {
+      "name": "CargoPants_Blue",
+      "pos": [
+        2383.276611,
+        359.710236,
+        7738.590332
+      ],
+      "ypr": [
+        -127.247513,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TrackSuitPants_Green",
+      "pos": [
+        2384.826416,
+        359.817108,
+        7740.24707
+      ],
+      "ypr": [
+        -86.179367,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TrackSuitJacket_Green",
+      "pos": [
+        2386.741211,
+        359.925751,
+        7739.452637
+      ],
+      "ypr": [
+        96.704605,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AKM",
+      "pos": [
+        2386.419922,
+        359.947754,
+        7741.304688
+      ],
+      "ypr": [
+        64.760872,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AKM_Drum75Rnd",
+      "pos": [
+        2385.983154,
+        359.914368,
+        7740.609863
+      ],
+      "ypr": [
+        -95.149994,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_Hndgrd",
+      "pos": [
+        2383.71582,
+        359.767395,
+        7740.388184
+      ],
+      "ypr": [
+        -84.273193,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_WoodBttstck",
+      "pos": [
+        2384.431152,
+        359.812653,
+        7741.581543
+      ],
+      "ypr": [
+        -121.188393,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        2380.698975,
+        359.579315,
+        7742.207031
+      ],
+      "ypr": [
+        -89.969765,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        2385.446777,
+        359.862671,
+        7743.662109
+      ],
+      "ypr": [
+        66.436295,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Red",
+      "pos": [
+        2383.280518,
+        360.967773,
+        7743.116211
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

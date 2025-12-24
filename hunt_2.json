@@ -1,0 +1,144 @@
+{
+  "Objects": [
+    {
+      "name": "HuntingJacket_Spring",
+      "pos": [
+        4537.677734,
+        222.685181,
+        4377.441406
+      ],
+      "ypr": [
+        -116.052132,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "HuntingOptic",
+      "pos": [
+        4538.763184,
+        222.601151,
+        4378.222168
+      ],
+      "ypr": [
+        -26.357006,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "HuntingKnife",
+      "pos": [
+        4539.322266,
+        222.618713,
+        4376.504883
+      ],
+      "ypr": [
+        -125.736862,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mosin9130",
+      "pos": [
+        4537.522949,
+        222.620636,
+        4376.467773
+      ],
+      "ypr": [
+        140.228287,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TunaCan",
+      "pos": [
+        4537.132324,
+        222.628632,
+        4377.336426
+      ],
+      "ypr": [
+        26.862385,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        4537.123047,
+        222.599854,
+        4375.510742
+      ],
+      "ypr": [
+        136.619125,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        4536.708496,
+        222.599854,
+        4376.820801
+      ],
+      "ypr": [
+        73.621628,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterStick",
+      "pos": [
+        4535.784668,
+        222.53154,
+        4372.788574
+      ],
+      "ypr": [
+        157.886307,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterStick",
+      "pos": [
+        4534.450684,
+        222.600006,
+        4378.864258
+      ],
+      "ypr": [
+        -7.428803,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Green",
+      "pos": [
+        4534.354004,
+        223.834045,
+        4376.34375
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

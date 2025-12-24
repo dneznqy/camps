@@ -1,0 +1,116 @@
+{
+  "Objects": [
+    {
+      "name": "Hoodie_Green",
+      "pos": [
+        2639.799561,
+        119.931625,
+        2435.75708
+      ],
+      "ypr": [
+        129.005402,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "FNX45",
+      "pos": [
+        2640.795166,
+        119.887413,
+        2436.535645
+      ],
+      "ypr": [
+        -5.05943,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "FNX45",
+      "pos": [
+        2640.794189,
+        119.820892,
+        2437.367676
+      ],
+      "ypr": [
+        137.305817,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_FNX45_15Rnd",
+      "pos": [
+        2640.076416,
+        119.904503,
+        2436.345215
+      ],
+      "ypr": [
+        -95.106064,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_FNX45_15Rnd",
+      "pos": [
+        2640.556641,
+        119.919693,
+        2436.04541
+      ],
+      "ypr": [
+        -49.544357,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        2636.764648,
+        119.684471,
+        2437.266113
+      ],
+      "ypr": [
+        -113.074089,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        2641.834229,
+        119.642548,
+        2438.567383
+      ],
+      "ypr": [
+        16.481001,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Green",
+      "pos": [
+        2639.051025,
+        120.911255,
+        2438.450684
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

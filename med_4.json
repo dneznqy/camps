@@ -1,0 +1,200 @@
+{
+  "Objects": [
+    {
+      "name": "NioshFaceMask",
+      "pos": [
+        1147.112305,
+        347.483734,
+        10073.912109
+      ],
+      "ypr": [
+        80.719017,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ChelatingTablets",
+      "pos": [
+        1147.879639,
+        347.534943,
+        10074.450195
+      ],
+      "ypr": [
+        -72.435059,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CharcoalTablets",
+      "pos": [
+        1147.213623,
+        347.507111,
+        10075.123047
+      ],
+      "ypr": [
+        -17.298567,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "SalineBagIV",
+      "pos": [
+        1146.345581,
+        347.474182,
+        10074.523438
+      ],
+      "ypr": [
+        3.444364,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BloodBagFull",
+      "pos": [
+        1146.614258,
+        347.445679,
+        10076.006836
+      ],
+      "ypr": [
+        -50.269535,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_WoodBttstck",
+      "pos": [
+        1146.513672,
+        347.49353,
+        10073.0
+      ],
+      "ypr": [
+        -28.329161,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_Hndgrd",
+      "pos": [
+        1147.554077,
+        347.539032,
+        10072.675781
+      ],
+      "ypr": [
+        2.213864,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74",
+      "pos": [
+        1147.967041,
+        347.527283,
+        10073.37793
+      ],
+      "ypr": [
+        -23.264326,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_45Rnd",
+      "pos": [
+        1148.466797,
+        347.550873,
+        10072.922852
+      ],
+      "ypr": [
+        -45.369446,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        1149.696899,
+        347.788574,
+        10076.367188
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        1149.4823,
+        348.120789,
+        10075.670898
+      ],
+      "ypr": [
+        6.317313,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterLeather",
+      "pos": [
+        1144.044189,
+        347.314026,
+        10077.307617
+      ],
+      "ypr": [
+        -21.665701,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterLeather",
+      "pos": [
+        1144.5802,
+        347.396637,
+        10072.991211
+      ],
+      "ypr": [
+        156.042984,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Yellow",
+      "pos": [
+        1143.880615,
+        348.571198,
+        10075.438477
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

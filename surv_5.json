@@ -1,0 +1,158 @@
+{
+  "Objects": [
+    {
+      "name": "HikingBootsLow_Grey",
+      "pos": [
+        3526.09082,
+        209.753067,
+        13310.543945
+      ],
+      "ypr": [
+        168.568344,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "HikingJacket_Red",
+      "pos": [
+        3526.011719,
+        209.793274,
+        13311.520508
+      ],
+      "ypr": [
+        -14.886926,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Epinephrine",
+      "pos": [
+        3527.173828,
+        209.792175,
+        13310.984375
+      ],
+      "ypr": [
+        15.617536,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Saiga",
+      "pos": [
+        3527.465332,
+        209.744034,
+        13309.40332
+      ],
+      "ypr": [
+        -111.739868,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Saiga_Bttstck",
+      "pos": [
+        3528.216797,
+        209.772919,
+        13310.193359
+      ],
+      "ypr": [
+        -25.945068,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_Saiga_8Rnd",
+      "pos": [
+        3527.893555,
+        209.788177,
+        13310.689453
+      ],
+      "ypr": [
+        -80.823425,
+        90.0,
+        179.999969
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_Saiga_8Rnd",
+      "pos": [
+        3527.533936,
+        209.831757,
+        13311.657227
+      ],
+      "ypr": [
+        138.305618,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        3524.824463,
+        210.144623,
+        13312.821289
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        3530.210693,
+        209.914185,
+        13313.276367
+      ],
+      "ypr": [
+        144.342758,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        3526.263672,
+        210.119797,
+        13317.615234
+      ],
+      "ypr": [
+        10.107738,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Blue",
+      "pos": [
+        3527.474121,
+        211.236557,
+        13315.257813
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

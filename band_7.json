@@ -1,0 +1,144 @@
+{
+  "Objects": [
+    {
+      "name": "Hoodie_Blue",
+      "pos": [
+        14579.47168,
+        82.96888,
+        14053.598633
+      ],
+      "ypr": [
+        15.029764,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Sneakers_White",
+      "pos": [
+        14578.183594,
+        82.991745,
+        14054.849609
+      ],
+      "ypr": [
+        25.675844,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ASVAL",
+      "pos": [
+        14580.932617,
+        82.991554,
+        14054.098633
+      ],
+      "ypr": [
+        66.969208,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_VAL_20Rnd",
+      "pos": [
+        14580.433594,
+        83.012924,
+        14055.692383
+      ],
+      "ypr": [
+        -142.491501,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_VAL_20Rnd",
+      "pos": [
+        14579.932617,
+        83.036247,
+        14056.605469
+      ],
+      "ypr": [
+        -0.269241,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        14577.423828,
+        83.356926,
+        14057.560547
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        14579.145508,
+        83.06459,
+        14058.292969
+      ],
+      "ypr": [
+        -166.568802,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        14582.071289,
+        82.940292,
+        14051.230469
+      ],
+      "ypr": [
+        55.368195,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        14576.535156,
+        82.933357,
+        14048.730469
+      ],
+      "ypr": [
+        -120.38269,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Blue",
+      "pos": [
+        14579.176758,
+        84.152649,
+        14049.416992
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

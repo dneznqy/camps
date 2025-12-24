@@ -1,0 +1,158 @@
+{
+  "Objects": [
+    {
+      "name": "TacticalShirt_Grey",
+      "pos": [
+        2453.822021,
+        276.293915,
+        10391.87793
+      ],
+      "ypr": [
+        32.443604,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4_OEBttstck",
+      "pos": [
+        2453.599121,
+        276.35907,
+        10393.577148
+      ],
+      "ypr": [
+        -39.799191,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4_PlasticHndgrd",
+      "pos": [
+        2454.949463,
+        276.421448,
+        10392.813477
+      ],
+      "ypr": [
+        127.681503,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4A1",
+      "pos": [
+        2455.470703,
+        276.490967,
+        10393.884766
+      ],
+      "ypr": [
+        -139.503143,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CMAG_40Rnd",
+      "pos": [
+        2455.323486,
+        276.414429,
+        10392.387695
+      ],
+      "ypr": [
+        101.324486,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CMAG_40Rnd",
+      "pos": [
+        2454.664063,
+        276.422699,
+        10393.670898
+      ],
+      "ypr": [
+        -58.410599,
+        90.0,
+        179.999908
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        2453.142822,
+        276.355347,
+        10394.866211
+      ],
+      "ypr": [
+        -170.864563,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        2453.546143,
+        276.430054,
+        10396.080078
+      ],
+      "ypr": [
+        -31.905264,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        2452.056885,
+        276.451447,
+        10398.792969
+      ],
+      "ypr": [
+        -126.786079,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        2456.13501,
+        276.824493,
+        10401.99707
+      ],
+      "ypr": [
+        28.7106,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Green",
+      "pos": [
+        2454.293213,
+        277.916626,
+        10401.009766
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

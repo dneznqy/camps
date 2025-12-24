@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "GasMask",
+      "pos": [
+        11470.40332,
+        250.509094,
+        5563.334473
+      ],
+      "ypr": [
+        10.349419,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "GasMask_Filter",
+      "pos": [
+        11469.726563,
+        250.674301,
+        5562.389648
+      ],
+      "ypr": [
+        -66.425369,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "MP5k_StockBttstck",
+      "pos": [
+        11472.270508,
+        250.320084,
+        5562.114258
+      ],
+      "ypr": [
+        -75.439926,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "MP5K",
+      "pos": [
+        11471.706055,
+        250.388382,
+        5561.286133
+      ],
+      "ypr": [
+        -133.943909,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_MP5_30Rnd",
+      "pos": [
+        11472.869141,
+        250.244263,
+        5563.33252
+      ],
+      "ypr": [
+        -68.4524,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCHoodYellow",
+      "pos": [
+        11471.231445,
+        250.430405,
+        5560.677734
+      ],
+      "ypr": [
+        123.786705,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCGlovesGray",
+      "pos": [
+        11471.125977,
+        250.51886,
+        5562.443359
+      ],
+      "ypr": [
+        49.846478,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        11471.933594,
+        250.604691,
+        5558.812012
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        11471.570313,
+        250.935989,
+        5558.989746
+      ],
+      "ypr": [
+        54.955269,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        11476.882813,
+        249.718689,
+        5564.672852
+      ],
+      "ypr": [
+        124.237175,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        11472.964844,
+        250.246231,
+        5566.702637
+      ],
+      "ypr": [
+        -64.73954,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Blue",
+      "pos": [
+        11475.28125,
+        251.179993,
+        5566.708984
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

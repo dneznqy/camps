@@ -1,0 +1,144 @@
+{
+  "Objects": [
+    {
+      "name": "HunterPants_Autumn",
+      "pos": [
+        4443.150879,
+        7.326493,
+        2560.810059
+      ],
+      "ypr": [
+        68.150261,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CZ527",
+      "pos": [
+        4443.228027,
+        7.363293,
+        2561.92334
+      ],
+      "ypr": [
+        -143.21666,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CZ527_5rnd",
+      "pos": [
+        4444.185547,
+        7.400638,
+        2561.353027
+      ],
+      "ypr": [
+        -64.0028,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BandageDressing",
+      "pos": [
+        4443.621094,
+        7.339139,
+        2558.850098
+      ],
+      "ypr": [
+        -99.841324,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "DisinfectantAlcohol",
+      "pos": [
+        4443.11084,
+        7.387038,
+        2559.821045
+      ],
+      "ypr": [
+        46.638393,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        4442.344727,
+        7.609599,
+        2563.510498
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        4442.375488,
+        7.941815,
+        2563.21167
+      ],
+      "ypr": [
+        17.457787,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterLeather",
+      "pos": [
+        4437.575195,
+        7.109533,
+        2563.714844
+      ],
+      "ypr": [
+        -132.94899,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterLeather",
+      "pos": [
+        4443.841309,
+        7.444321,
+        2566.374512
+      ],
+      "ypr": [
+        33.081001,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Green",
+      "pos": [
+        4440.513672,
+        8.476052,
+        2566.083008
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

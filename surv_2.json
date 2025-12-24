@@ -1,0 +1,130 @@
+{
+  "Objects": [
+    {
+      "name": "Raincoat_Red",
+      "pos": [
+        2788.45459,
+        195.163757,
+        5101.797852
+      ],
+      "ypr": [
+        126.884979,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mp133Shotgun",
+      "pos": [
+        2789.472168,
+        195.151154,
+        5100.549805
+      ],
+      "ypr": [
+        -94.710541,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AmmoBox_00buck_10rnd",
+      "pos": [
+        2789.240967,
+        195.137741,
+        5100.074707
+      ],
+      "ypr": [
+        -63.272198,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BandageDressing",
+      "pos": [
+        2788.224854,
+        195.113449,
+        5099.825195
+      ],
+      "ypr": [
+        147.083969,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        2790.34668,
+        195.537888,
+        5102.006836
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        2790.343262,
+        195.870102,
+        5101.871582
+      ],
+      "ypr": [
+        -148.374863,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        2789.845947,
+        195.531586,
+        5107.442383
+      ],
+      "ypr": [
+        -73.819382,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        2795.161621,
+        195.583923,
+        5103.95166
+      ],
+      "ypr": [
+        102.395683,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Red",
+      "pos": [
+        2792.829102,
+        196.88031,
+        5106.466797
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

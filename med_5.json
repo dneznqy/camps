@@ -1,0 +1,158 @@
+{
+  "Objects": [
+    {
+      "name": "NBCBootsGray",
+      "pos": [
+        5373.951172,
+        166.77356,
+        12755.461914
+      ],
+      "ypr": [
+        55.394722,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCHoodGray",
+      "pos": [
+        5374.895508,
+        166.774506,
+        12754.897461
+      ],
+      "ypr": [
+        163.778168,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mp133Shotgun",
+      "pos": [
+        5375.711914,
+        166.873962,
+        12756.583984
+      ],
+      "ypr": [
+        -47.478863,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AmmoBox_00buck_10rnd",
+      "pos": [
+        5374.797363,
+        166.865326,
+        12756.636719
+      ],
+      "ypr": [
+        -65.145409,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AntiChemInjector",
+      "pos": [
+        5375.691895,
+        166.837509,
+        12755.842773
+      ],
+      "ypr": [
+        -29.647549,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TetracyclineAntibiotics",
+      "pos": [
+        5375.432617,
+        166.809967,
+        12755.023438
+      ],
+      "ypr": [
+        34.256454,
+        -90.0,
+        -6.3e-05
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        5374.618652,
+        166.918243,
+        12758.761719
+      ],
+      "ypr": [
+        87.585678,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        5376.024902,
+        166.908096,
+        12757.880859
+      ],
+      "ypr": [
+        55.372757,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterLeather",
+      "pos": [
+        5373.353027,
+        166.562515,
+        12750.49707
+      ],
+      "ypr": [
+        124.205696,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterLeather",
+      "pos": [
+        5369.82959,
+        166.690063,
+        12755.330078
+      ],
+      "ypr": [
+        -43.364361,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Yellow",
+      "pos": [
+        5371.246582,
+        167.864655,
+        12753.15332
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

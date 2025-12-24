@@ -1,0 +1,186 @@
+{
+  "Objects": [
+    {
+      "name": "BalaclavaMask_Blackskull",
+      "pos": [
+        6063.294922,
+        4.455828,
+        2002.04541
+      ],
+      "ypr": [
+        144.381226,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Jeans_Green",
+      "pos": [
+        6061.867676,
+        4.348837,
+        2002.929199
+      ],
+      "ypr": [
+        147.441025,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_WoodBttstck",
+      "pos": [
+        6062.399414,
+        4.403644,
+        2000.952515
+      ],
+      "ypr": [
+        56.630791,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_Hndgrd",
+      "pos": [
+        6061.058594,
+        4.385607,
+        2001.114502
+      ],
+      "ypr": [
+        -72.989914,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74",
+      "pos": [
+        6061.270996,
+        4.374741,
+        2001.870728
+      ],
+      "ypr": [
+        -119.880989,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_45Rnd",
+      "pos": [
+        6061.495605,
+        4.398249,
+        2000.587158
+      ],
+      "ypr": [
+        -128.769196,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "MediumTent_GreenPlacing",
+      "pos": [
+        6060.808105,
+        0.24725,
+        1997.134277
+      ],
+      "ypr": [
+        71.687973,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        6058.445313,
+        4.290993,
+        2003.554199
+      ],
+      "ypr": [
+        -90.706894,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        6061.702148,
+        4.213834,
+        2008.828979
+      ],
+      "ypr": [
+        -1.4045,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Red",
+      "pos": [
+        6061.10791,
+        5.521407,
+        2004.94458
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        6063.739258,
+        4.625505,
+        2004.185669
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        6059.862305,
+        4.330108,
+        2000.565796
+      ],
+      "ypr": [
+        147.122375,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        6058.800781,
+        4.295978,
+        2004.025269
+      ],
+      "ypr": [
+        -164.569199,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

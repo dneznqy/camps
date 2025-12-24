@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "Colt1911",
+      "pos": [
+        6603.10791,
+        375.053345,
+        14427.271484
+      ],
+      "ypr": [
+        130.351257,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_1911_7Rnd",
+      "pos": [
+        6603.401367,
+        375.029663,
+        14428.048828
+      ],
+      "ypr": [
+        121.825623,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_1911_7Rnd",
+      "pos": [
+        6603.915527,
+        375.055969,
+        14427.856445
+      ],
+      "ypr": [
+        55.114632,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BandageDressing",
+      "pos": [
+        6601.828125,
+        374.97113,
+        14427.742188
+      ],
+      "ypr": [
+        -155.258026,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AntiChemInjector",
+      "pos": [
+        6603.907715,
+        375.098938,
+        14426.287109
+      ],
+      "ypr": [
+        43.556686,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TetracyclineAntibiotics",
+      "pos": [
+        6605.23291,
+        375.130615,
+        14426.978516
+      ],
+      "ypr": [
+        -71.166115,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        6603.194824,
+        374.987701,
+        14429.354492
+      ],
+      "ypr": [
+        -175.610825,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        6604.213867,
+        375.034149,
+        14429.342773
+      ],
+      "ypr": [
+        -93.298744,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        6602.665527,
+        374.992188,
+        14425.106445
+      ],
+      "ypr": [
+        -84.586319,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterLeather",
+      "pos": [
+        6600.40332,
+        374.819946,
+        14422.761719
+      ],
+      "ypr": [
+        -179.105179,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterLeather",
+      "pos": [
+        6597.975586,
+        374.708862,
+        14428.037109
+      ],
+      "ypr": [
+        8.360851,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Green",
+      "pos": [
+        6598.775879,
+        375.973572,
+        14425.227539
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

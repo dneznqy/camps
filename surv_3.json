@@ -1,0 +1,116 @@
+{
+  "Objects": [
+    {
+      "name": "MakarovIJ70",
+      "pos": [
+        4570.995117,
+        311.496979,
+        7253.424805
+      ],
+      "ypr": [
+        -148.193588,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_IJ70_8Rnd",
+      "pos": [
+        4570.030273,
+        311.514587,
+        7253.104004
+      ],
+      "ypr": [
+        -68.573296,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_IJ70_8Rnd",
+      "pos": [
+        4570.568359,
+        311.492493,
+        7252.620605
+      ],
+      "ypr": [
+        -4.663893,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "PainkillerTablets",
+      "pos": [
+        4571.356445,
+        311.464447,
+        7252.396973
+      ],
+      "ypr": [
+        12.101818,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CharcoalTablets",
+      "pos": [
+        4571.672852,
+        311.484467,
+        7254.743652
+      ],
+      "ypr": [
+        -102.302292,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterLeather",
+      "pos": [
+        4571.98291,
+        311.563171,
+        7257.510742
+      ],
+      "ypr": [
+        -8.415782,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterLeather",
+      "pos": [
+        4575.161621,
+        311.388336,
+        7253.270508
+      ],
+      "ypr": [
+        98.222603,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Yellow",
+      "pos": [
+        4573.318848,
+        312.708466,
+        7255.302246
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

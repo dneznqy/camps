@@ -1,0 +1,144 @@
+{
+  "Objects": [
+    {
+      "name": "HunterPants_Spring",
+      "pos": [
+        1530.703857,
+        279.218567,
+        11932.064453
+      ],
+      "ypr": [
+        -134.004333,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "HuntingJacket_Brown",
+      "pos": [
+        1530.554321,
+        279.339935,
+        11930.614258
+      ],
+      "ypr": [
+        -129.148209,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "HuntingKnife",
+      "pos": [
+        1531.618896,
+        279.149323,
+        11932.249023
+      ],
+      "ypr": [
+        -140.546906,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "HuntingBag",
+      "pos": [
+        1532.185181,
+        279.150055,
+        11933.613281
+      ],
+      "ypr": [
+        -122.067329,
+        -90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "MKII",
+      "pos": [
+        1530.537964,
+        279.195831,
+        11933.949219
+      ],
+      "ypr": [
+        -23.33021,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_MKII_10Rnd",
+      "pos": [
+        1531.269531,
+        279.120422,
+        11933.993164
+      ],
+      "ypr": [
+        -5.564755,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        1533.278442,
+        279.21228,
+        11936.097656
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterStick",
+      "pos": [
+        1527.869995,
+        279.417725,
+        11934.679688
+      ],
+      "ypr": [
+        -86.047981,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterStick",
+      "pos": [
+        1529.013672,
+        279.40564,
+        11929.490234
+      ],
+      "ypr": [
+        131.850296,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Blue",
+      "pos": [
+        1529.518433,
+        280.503967,
+        11933.731445
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

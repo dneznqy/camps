@@ -1,0 +1,200 @@
+{
+  "Objects": [
+    {
+      "name": "M4_T3NRDSOptic",
+      "pos": [
+        12704.870117,
+        158.679047,
+        4506.754395
+      ],
+      "ypr": [
+        91.029999,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4_OEBttstck",
+      "pos": [
+        12703.364258,
+        158.692322,
+        4506.774902
+      ],
+      "ypr": [
+        154.774612,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4_PlasticHndgrd",
+      "pos": [
+        12704.068359,
+        158.693314,
+        4507.628906
+      ],
+      "ypr": [
+        73.484306,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4A1",
+      "pos": [
+        12702.674805,
+        158.697876,
+        4504.75293
+      ],
+      "ypr": [
+        12.563307,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CMAG_40Rnd",
+      "pos": [
+        12704.518555,
+        158.689133,
+        4504.303711
+      ],
+      "ypr": [
+        4.707839,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BalaclavaMask_Blackskull",
+      "pos": [
+        12703.214844,
+        158.750656,
+        4503.255859
+      ],
+      "ypr": [
+        20.627453,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TrackSuitPants_Green",
+      "pos": [
+        12701.319336,
+        158.672165,
+        4503.095703
+      ],
+      "ypr": [
+        38.140186,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TrackSuitJacket_Green",
+      "pos": [
+        12700.339844,
+        158.672165,
+        4504.066895
+      ],
+      "ypr": [
+        -41.35936,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        12701.53125,
+        158.669846,
+        4503.12207
+      ],
+      "ypr": [
+        120.271004,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        12701.011719,
+        158.669846,
+        4504.433594
+      ],
+      "ypr": [
+        50.362843,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        12704.862305,
+        158.959305,
+        4507.802246
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        12708.430664,
+        158.683716,
+        4504.158203
+      ],
+      "ypr": [
+        175.643753,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        12708.576172,
+        158.684311,
+        4508.816406
+      ],
+      "ypr": [
+        34.408375,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Red",
+      "pos": [
+        12707.833008,
+        159.91539,
+        4506.880859
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "Objects": [
+    {
+      "name": "ChelatingTablets",
+      "pos": [
+        10703.974609,
+        7.936521,
+        2405.164307
+      ],
+      "ypr": [
+        33.56427,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CharcoalTablets",
+      "pos": [
+        10705.639648,
+        7.90084,
+        2405.268799
+      ],
+      "ypr": [
+        40.711102,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "R12",
+      "pos": [
+        10706.397461,
+        7.88087,
+        2404.720459
+      ],
+      "ypr": [
+        55.971596,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AmmoBox_00buck_10rnd",
+      "pos": [
+        10708.100586,
+        7.867653,
+        2404.907959
+      ],
+      "ypr": [
+        68.012947,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AmmoBox_00buck_10rnd",
+      "pos": [
+        10707.496094,
+        7.878544,
+        2405.127197
+      ],
+      "ypr": [
+        73.945724,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        10710.44043,
+        8.060084,
+        2404.389648
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        10710.408203,
+        8.392302,
+        2404.284668
+      ],
+      "ypr": [
+        -57.086697,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        10705.757813,
+        7.83603,
+        2409.633301
+      ],
+      "ypr": [
+        -115.145248,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        10711.746094,
+        7.834507,
+        2410.116211
+      ],
+      "ypr": [
+        71.080399,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

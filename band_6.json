@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "CargoPants_Green",
+      "pos": [
+        2105.868164,
+        447.641052,
+        15033.84375
+      ],
+      "ypr": [
+        7.712637,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AssaultBag_Green",
+      "pos": [
+        2104.538818,
+        447.824463,
+        15037.066406
+      ],
+      "ypr": [
+        166.387527,
+        -90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_WoodBttstck",
+      "pos": [
+        2103.895264,
+        447.674591,
+        15033.570313
+      ],
+      "ypr": [
+        68.518326,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_Hndgrd",
+      "pos": [
+        2103.009766,
+        447.696564,
+        15034.37207
+      ],
+      "ypr": [
+        28.988356,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74",
+      "pos": [
+        2104.961914,
+        447.714142,
+        15035.727539
+      ],
+      "ypr": [
+        57.80632,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_30Rnd",
+      "pos": [
+        2106.266113,
+        447.678925,
+        15035.714844
+      ],
+      "ypr": [
+        -122.737511,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_30Rnd",
+      "pos": [
+        2106.547852,
+        447.658264,
+        15034.583008
+      ],
+      "ypr": [
+        97.347321,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        2106.371582,
+        447.98645,
+        15037.257813
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        2106.527832,
+        448.318665,
+        15036.800781
+      ],
+      "ypr": [
+        31.982174,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        2103.435059,
+        447.536041,
+        15030.387695
+      ],
+      "ypr": [
+        141.793854,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        2100.210449,
+        447.638367,
+        15034.066406
+      ],
+      "ypr": [
+        -63.460194,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Red",
+      "pos": [
+        2101.30957,
+        448.823639,
+        15032.402344
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "Objects": [
+    {
+      "name": "SSG82",
+      "pos": [
+        4304.678223,
+        324.386902,
+        8850.907227
+      ],
+      "ypr": [
+        151.511566,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "SSG82",
+      "pos": [
+        4303.515137,
+        324.468201,
+        8852.601563
+      ],
+      "ypr": [
+        110.509338,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_SSG82_5rnd",
+      "pos": [
+        4301.869629,
+        324.399414,
+        8851.722656
+      ],
+      "ypr": [
+        -89.425941,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BandageDressing",
+      "pos": [
+        4302.615234,
+        324.338318,
+        8850.496094
+      ],
+      "ypr": [
+        -41.370312,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "VitaminBottle",
+      "pos": [
+        4304.091309,
+        324.29184,
+        8849.069336
+      ],
+      "ypr": [
+        -50.934174,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        4300.819824,
+        324.277191,
+        8849.230469
+      ],
+      "ypr": [
+        165.821716,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        4302.339844,
+        324.445679,
+        8852.790039
+      ],
+      "ypr": [
+        99.879745,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterStick",
+      "pos": [
+        4309.581543,
+        324.230042,
+        8851.067383
+      ],
+      "ypr": [
+        53.164497,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterStick",
+      "pos": [
+        4305.725586,
+        324.197083,
+        8847.264648
+      ],
+      "ypr": [
+        -169.355789,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Blue",
+      "pos": [
+        4306.837402,
+        325.468842,
+        8849.855469
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

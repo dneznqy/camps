@@ -1,0 +1,186 @@
+{
+  "Objects": [
+    {
+      "name": "AKS74U_Bttstck",
+      "pos": [
+        3205.5,
+        344.87442,
+        7433.134766
+      ],
+      "ypr": [
+        -155.258026,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AKS74U",
+      "pos": [
+        3204.546875,
+        344.902527,
+        7432.851074
+      ],
+      "ypr": [
+        -134.690994,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_45Rnd",
+      "pos": [
+        3203.6604,
+        344.870453,
+        7432.325195
+      ],
+      "ypr": [
+        48.522625,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_45Rnd",
+      "pos": [
+        3204.908203,
+        344.835083,
+        7431.629395
+      ],
+      "ypr": [
+        169.414322,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "PainkillerTablets",
+      "pos": [
+        3203.072021,
+        344.891693,
+        7433.181152
+      ],
+      "ypr": [
+        -73.868851,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ChelatingTablets",
+      "pos": [
+        3203.83667,
+        344.934875,
+        7434.032715
+      ],
+      "ypr": [
+        -57.322933,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CharcoalTablets",
+      "pos": [
+        3204.720947,
+        344.900787,
+        7434.489258
+      ],
+      "ypr": [
+        -115.541252,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        3206.651611,
+        345.173248,
+        7434.141602
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        3206.544434,
+        345.505463,
+        7433.838379
+      ],
+      "ypr": [
+        58.954426,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WoodenCrate",
+      "pos": [
+        3206.477295,
+        345.505463,
+        7434.822754
+      ],
+      "ypr": [
+        -109.163475,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        3204.331787,
+        345.007233,
+        7438.018555
+      ],
+      "ypr": [
+        69.622498,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        3199.953857,
+        344.943756,
+        7434.969238
+      ],
+      "ypr": [
+        -107.836998,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Green",
+      "pos": [
+        3201.93457,
+        346.235992,
+        7437.243652
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

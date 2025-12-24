@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "SurgicalGloves_White",
+      "pos": [
+        5375.26416,
+        307.704681,
+        5515.081543
+      ],
+      "ypr": [
+        79.88401,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "GP5GasMask",
+      "pos": [
+        5375.591309,
+        307.844086,
+        5514.287598
+      ],
+      "ypr": [
+        -107.334206,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "LabCoat",
+      "pos": [
+        5373.864258,
+        307.845947,
+        5514.60791
+      ],
+      "ypr": [
+        101.467316,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CZ61",
+      "pos": [
+        5376.834473,
+        307.713104,
+        5515.538574
+      ],
+      "ypr": [
+        85.470741,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CZ61_20Rnd",
+      "pos": [
+        5377.143066,
+        307.699402,
+        5514.695801
+      ],
+      "ypr": [
+        63.486435,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CZ61_20Rnd",
+      "pos": [
+        5376.662598,
+        307.701508,
+        5514.71875
+      ],
+      "ypr": [
+        -37.656776,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        5374.783691,
+        308.00946,
+        5516.298828
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        5377.511719,
+        307.976166,
+        5513.51709
+      ],
+      "ypr": [
+        79.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        5375.377441,
+        307.993683,
+        5512.785156
+      ],
+      "ypr": [
+        120.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        5379.465332,
+        307.690643,
+        5519.177246
+      ],
+      "ypr": [
+        0.427006,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ShelterFabric",
+      "pos": [
+        5381.986328,
+        307.577606,
+        5512.911133
+      ],
+      "ypr": [
+        128.192368,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Misc_FireBarrel_Green",
+      "pos": [
+        5380.501465,
+        308.872833,
+        5516.562988
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}
