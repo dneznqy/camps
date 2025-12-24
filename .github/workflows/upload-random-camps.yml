@@ -33,9 +33,9 @@ jobs:
 
       - name: Upload selected files via FTP
         env:
-   FTP_HOST: ${{ secrets.FTP_HOST }}
-    FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
-   FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         run: |
           remote_paths=(
             /dayzps_missions/dayzoffline.chernarusplus/custom/band_1.json
@@ -65,7 +65,9 @@ jobs:
             "$FILE11"
             "$FILE12"
           )
-          for i in "${!files[@]}"; do
-            echo "Uploading ${files[$i]} to ${remote_paths[$i]}"
-            curl --ftp-method nocwd --ftp-pasv --disable-epsv -T "${files[$i]}" "ftp://${FTP_USERNAME}:${FTP_PASSWORD}@${FTP_HOST}${remote_paths[$i]}"
-          done
+        for i in "${!files[@]}"; do
+  echo "Uploading ${files[$i]} to ${remote_paths[$i]}"
+  curl --ftp-method nocwd --ftp-pasv --disable-epsv \
+    -T "${files[$i]}" \
+    "ftp://${FTP_USERNAME}:${FTP_PASSWORD}@${FTP_HOST}${remote_paths[$i]}"
+done
