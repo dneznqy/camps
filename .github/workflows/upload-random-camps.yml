@@ -40,18 +40,18 @@ jobs:
           set -e
 
           remote_paths=(
-            /dayzps_missions/dayzoffline.chernarusplus/custom/band_1.json
-            /dayzps_missions/dayzoffline.chernarusplus/custom/band_2.json
-            /dayzps_missions/dayzoffline.chernarusplus/custom/band_3.json
-            /dayzps_missions/dayzoffline.chernarusplus/custom/hunt_1.json
-            /dayzps_missions/dayzoffline.chernarusplus/custom/hunt_2.json
-            /dayzps_missions/dayzoffline.chernarusplus/custom/hunt_3.json
-            /dayzps_missions/dayzoffline.chernarusplus/custom/med_1.json
-            /dayzps_missions/dayzoffline.chernarusplus/custom/med_2.json
-            /dayzps_missions/dayzoffline.chernarusplus/custom/med_3.json
-            /dayzps_missions/dayzoffline.chernarusplus/custom/surv_1.json
-            /dayzps_missions/dayzoffline.chernarusplus/custom/surv_2.json
-            /dayzps_missions/dayzoffline.chernarusplus/custom/surv_3.json
+            /dayzps_missions/dayzOffline.chernarusplus/custom/band_1.json
+            /dayzps_missions/dayzOffline.chernarusplus/custom/band_2.json
+            /dayzps_missions/dayzOffline.chernarusplus/custom/band_3.json
+            /dayzps_missions/dayzOffline.chernarusplus/custom/hunt_1.json
+            /dayzps_missions/dayzOffline.chernarusplus/custom/hunt_2.json
+            /dayzps_missions/dayzOffline.chernarusplus/custom/hunt_3.json
+            /dayzps_missions/dayzOffline.chernarusplus/custom/med_1.json
+            /dayzps_missions/dayzOffline.chernarusplus/custom/med_2.json
+            /dayzps_missions/dayzOffline.chernarusplus/custom/med_3.json
+            /dayzps_missions/dayzOffline.chernarusplus/custom/surv_1.json
+            /dayzps_missions/dayzOffline.chernarusplus/custom/surv_2.json
+            /dayzps_missions/dayzOffline.chernarusplus/custom/surv_3.json
           )
 
           files=(
