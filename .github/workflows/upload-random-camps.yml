@@ -15,7 +15,6 @@ jobs:
       - name: Select random camp files
         run: |
           set -e
-
           band_files=(band_1.json band_2.json band_3.json band_4.json band_5.json band_6.json band_7.json band_8.json)
           hunt_files=(hunt_1.json hunt_2.json hunt_3.json hunt_4.json hunt_5.json hunt_6.json hunt_7.json hunt_8.json)
           med_files=(med_1.json med_2.json med_3.json med_4.json med_5.json med_6.json med_7.json med_8.json)
@@ -70,20 +69,9 @@ jobs:
             "${FILE12}"
           )
 
-          # защита от пустых значений
-          if [ "${#files[@]}" -ne "${#remote_paths[@]}" ]; then
-            echo "Mismatch: files=${#files[@]} remote_paths=${#remote_paths[@]}"
-            exit 1
-          fi
-
           for i in "${!files[@]}"; do
-            if [ -z "${files[$i]}" ]; then
-              echo "Empty file at index $i"
-              exit 1
-            fi
-
             echo "Uploading ${files[$i]} to ${remote_paths[$i]}"
-            curl --ftp-method nocwd --ftp-pasv --disable-epsv \
+            curl --ftp-method nocwd --ftp-pasv --disable-epsv --ftp-create-dirs \
               -T "${files[$i]}" \
               "ftp://${FTP_USERNAME}:${FTP_PASSWORD}@${FTP_HOST}${remote_paths[$i]}"
           done
